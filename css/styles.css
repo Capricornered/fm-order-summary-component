@@ -154,7 +154,7 @@ body {
     /*GENERAL*/
 
     body {
-        background: url('/images/pattern-background-desktop.svg') var(--paleblue) fixed no-repeat top center/100% 45%;
+        background: url('../images/pattern-background-desktop.svg') var(--paleblue) fixed no-repeat top center/100% 45%;
     }
     
     /*ORDER SUMMARY BOX*/
@@ -177,7 +177,7 @@ body {
     .proceed {
         width: 80%;
     }
-    
+
     /*FOOTER*/
     
     .attribution {
